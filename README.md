@@ -21,6 +21,9 @@ Demonstrate the operation of the implemented mechanisms in the main function.
 
 Describe with a UML class diagram the implemented design for all classes.
 
+## My project
+As my subject I chose advertising portal and created 5 class hierarchies regarding Account, Category, Item, Ad and Advertising Portal which stores all informations like accounts and ads about specific portal.
+
 ## UML class diagram
 Created with Enterprise Architect software <br>
 <img src="./uml-class-diagram.png" width=100% height=100%>

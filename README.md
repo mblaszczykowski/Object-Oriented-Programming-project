@@ -1,5 +1,5 @@
 # Object-oriented-programming-project
-> Final project for Object Oriented Programming subject in C++
+> Final project for Object Oriented Programming subject in C++ at Military University of Technology in Warsaw
 
 #### The main goal of this project was to use all of Object Oriented Programming principles and mechanisms and create an UML class diagram.
 

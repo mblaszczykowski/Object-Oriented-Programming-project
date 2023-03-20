@@ -22,4 +22,5 @@ Demonstrate the operation of the implemented mechanisms in the main function.
 Describe with a UML class diagram the implemented design for all classes.
 
 ## UML class diagram
+Created with Enterprise Architect software <br>
 <img src="./uml-class-diagram.png" width=100% height=100%>
